@@ -8,15 +8,6 @@ The goal is to prepare for coding rounds **not by solving random DSA problems**,
 
 ---
 
-## 📚 What’s Inside
-- Machine coding problems for iOS developers
-- Swift, UIKit, SwiftUI, Combine, CoreData based solutions
-- Clean Code, SOLID Principles, Dependency Injection
-- End-to-end small app development tasks
-- Interview tips and structured approaches
-
----
-
 ## 🛠 Problem Statement
 - 🎬 ## Build a **simple Todo List app** in **Swift** using **UIKit** or **SwiftUI** that lets the user:
 
